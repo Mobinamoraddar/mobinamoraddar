@@ -7,7 +7,10 @@ A developer who is passionate about learning technologies and building cool proj
 - 🌱 I’m currently improving my JavaScript skills
 - 👯 I’m looking to collaborate with a team of creative developers to grow with and learn from.
 - 📫 How to reach me: moraddarmobina@gmail.com
+<br />
+<br />
 
+---
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
