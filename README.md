@@ -1,19 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Mobinamoraddar/mobinamoraddar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### I'm Mobina.
+### A developer who is passionate about learning technologies and building cool projects and in love with the proccess of it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on React.js
+- 🌱 I’m currently improving my JavaScript skills
+- 👯 I’m looking to collaborate with a team of creative developers to grow with and learn from.
+- 📫 How to reach me: moraddarmobina@gmail.com
+
+
 
 ### Languages and Tools:
 
@@ -34,9 +31,9 @@ Here are some ideas to get you started:
 [![website](./img/globe-light.svg)](https://mobinamoraddar.ir#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://mobinamoraddar.ir#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/Mobina_Moraddar#gh-light-mode-only)
+<!-- [![website](./img/twitter-light.svg)](https://twitter.com/Mobina_Moraddar#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Mobina_Moraddar#gh-dark-mode-only)
-&nbsp;&nbsp;
+&nbsp;&nbsp; -->
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/mobina-moraddar#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/mobina-moraddar#gh-dark-mode-only)
 
@@ -44,4 +41,4 @@ Here are some ideas to get you started:
 
 [website]: https://mobinamoraddar.ir
 [linkedin]: https://linkedin.com/in/mobina-moraddar
-[twitter]: https://twitter.com/Mobina_Moraddar
+<!-- [twitter]: https://twitter.com/Mobina_Moraddar -->
