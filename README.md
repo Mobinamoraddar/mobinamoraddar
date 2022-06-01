@@ -30,7 +30,6 @@ A developer who is passionate about learning technologies and building cool proj
 [![website](./img/globe-dark.svg)](https://mobinamoraddar.ir#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/mobina-moraddar#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/mobina-moraddar#gh-dark-mode-only)
 
 
 
