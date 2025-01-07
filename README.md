@@ -1,11 +1,10 @@
 ### Hi there 👋
 ### I'm Mobina.
-A developer who is passionate about learning technologies and building cool projects
- and in love with the proccess of it.
 
-- 🔭 I’m currently working on React.js
-- 🌱 I’m currently improving my JavaScript skills
-- 👯 I’m looking to collaborate with a team of creative developers to grow with and learn from.
+I am a skilled frontend developer with over 3 years of experience in building intuitive and performant user interfaces. Currently working at a leading company, I collaborate with cross-functional teams to deliver innovative solutions and drive technical excellence.
+
+- 🔭 I’m currently working on Next.js
+- 🌱 I’m currently improving my programming skills
 - 📫 How to reach me: moraddarmobina@gmail.com
 <br />
 
